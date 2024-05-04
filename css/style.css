@@ -51,6 +51,7 @@ outline: none;
     cursor: pointer;
     width: 100%;
     max-width: 180px;
+    
 }
 
 .login__button:disabled {

@@ -15,6 +15,7 @@ function validaInput ({target}){
     else{button.setAttribute('disabled', '');}
 }
 
+//função submit
 function handleSubmit(event) {
 event.preventDefault();
 console.log('logando');
